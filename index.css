@@ -251,6 +251,10 @@ font-weight: 800;
     padding-top: 5px;
 
 }
+#Banner{
+    width: 800px;
+    margin-left: 200px;
+}
 .section4 #Banner .carosel_img{
     display: flex;
 }
